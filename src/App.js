@@ -3,9 +3,9 @@ import './App.css';
 
 export function coverageTest(branch) {
   if (branch) {
-    return branch;
+    return 'fun!';
   } else {
-    return branch;
+    return 'not fun :(';
   }
 }
 
