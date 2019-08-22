@@ -1,8 +1,12 @@
 import React from 'react';
 import './App.css';
 
-function uncoveredFunction() {
-  console.log('Blah');
+export function coverageTest(branch) {
+  if (branch) {
+    return branch;
+  } else {
+    return branch;
+  }
 }
 
 function App() {
