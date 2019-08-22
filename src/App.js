@@ -1,6 +1,10 @@
 import React from 'react';
 import './App.css';
 
+function uncoveredFunction() {
+  console.log('Blah');
+}
+
 function App() {
   return (
     <div className="App">
