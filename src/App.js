@@ -2,11 +2,11 @@ import React from 'react';
 import './App.css';
 
 export function coverageTest(branch) {
-  if (branch) {
-    return branch;
-  } else {
-    return branch;
-  }
+  // if (branch) {
+  //   return branch;
+  // } else {
+  //   return branch;
+  // }
 }
 
 function App() {
