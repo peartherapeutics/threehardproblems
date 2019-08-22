@@ -10,4 +10,5 @@ it('renders without crashing', () => {
 
 it('partially tests coverage', () => {
   expect(coverageTest(true)).toBe(true);
+  expect(coverageTest(false)).toBe(false);
 });
