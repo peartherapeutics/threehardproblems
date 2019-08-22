@@ -1,4 +1,5 @@
-This is a demo app so we can test code coverage measurement.
+This is a demo app so we can test code coverage measurement. Note that it is PUBLIC so
+do not put anything proprietary or confidential here - it is for testing tools.
 
 # Create React App boilerplate
 
